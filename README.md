@@ -1,7 +1,8 @@
 # fearandtrembling
 
 It's a song book in progress of about 20 tunes from my first few years in San Francisco. 
-Mostly jazz in the style of Thelonious Monk and Sun Ra.
+Mostly jazz in the style of Thelonious Monk and Sun Ra. Folders have the original
+jams that inspired the songs, and (eventually) pdf of the final chart.
 
 ## Compositional Style
 
